@@ -3,6 +3,41 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# NPM
+package-lock.json
+
+# TwinCAT HMI
+.engineering_servers
+
+.hmipkgs
+.hmiframework
+
+# TwinCAT files
+*.tpy
+*.tclrs
+*.compiled-library
+*.compileinfo
+*.tmcRefac
+*.library
+*.project.~u
+*.tsproj.bak
+*.tsproj.bk?
+*.xti.bak
+*.xti.bk?
+LineIDs.dbg
+LineIDs.dbg.bak
+_Boot/
+_CompileInfo/
+_Libraries/
+_Deployment/
+_ModuleInstall/
+_Repository/
+
+#usual
+*.bak
+*.bin
+*.zip
+
 # User-specific files
 *.rsuser
 *.suo

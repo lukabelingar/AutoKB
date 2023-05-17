@@ -6,7 +6,7 @@
     "CACHEMAXAGE": "P30D",
     "CACHEMAXENTRYSIZE": 1048576,
     "CACHEMAXSIZE": 2097152,
-    "CERTIFICATE": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURwakNDQW82Z0F3SUJBZ0lKQUpNU3RBOHNsM21UTUEwR0NTcUdTSWIzRFFFQkN3VUFNRVl4Q3pBSkJnTlYKQkFZVEFrUkZNUnN3R1FZRFZRUUtEQkpVZDJsdVEwRlVJRWhOU1NCVFpYSjJaWEl4R2pBWUJnTlZCQU1NRVV4MQphMkZDWld3dFRtSXdNVjl5YjI5ME1DQVhEVEl5TURNeE5qQTVOVEExTVZvWUR6SXdOakF3TnpFME1EazFNRFV4CldqQkJNUXN3Q1FZRFZRUUdFd0pFUlRFYk1Ca0dBMVVFQ2d3U1ZIZHBia05CVkNCSVRVa2dVMlZ5ZG1WeU1SVXcKRXdZRFZRUUREQXhNZFd0aFFtVnNMVTVpTURFd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFSwpBb0lCQVFETS9XVG1Fc2RSSmZnYmc0YUd2ZUJ2TU8wTzE0MnZES2pKT0RyUEIwUFdROHU2ZmZpSVBpUCtHZ01tCnVYZzRLS0lQQ3pOK2xhdWo4NWhtazMrY1Bhb0FhK1dvMzErYkN4VElFOVVkSzF6aStsYlloWXNvRlZkOHNBVGsKaDRQMzBOaGkrYmxsWGNLQ2ZtY0I3eUdNcGZWeGdBNUFXS2ZTUXc1ZFo5RThlN2tkM1NDdm5WcXZGNmowZzBlSApiTHk2WGhZTmRwSXVKSFc5TzdiR2hXSXlsQ2NrcnRvYk91ZkczVENnUmM5b0VJWnUwc3NGR3B0VmZZNStyNUluCkhtWGRQbmw1U0NDejh2SmdFMHFPWnFRc0MwdVVDd2dpT2dPU0xWVjA2SEdRaHEwS3UzU2RmR2hhRlhhUy9USXEKWGpKYmE3T3IvQmtISlVSOHp4TFJENHpuMlk1SEFnTUJBQUdqZ1prd2daWXdad1lEVlIwUkJHQXdYb0lKYkc5agpZV3hvYjNOMGh3Ui9BQUFCaHhBQUFBQUFBQUFBQUFBQUFBQUFBQUFCZ2d4TWRXdGhRbVZzTFU1aU1ER0NHVXgxCmEyRkNaV3d0VG1Jd01TNWlaV05yYUc5bVppNWpiMjJIQkFvb0FRU0hCTUNvTERhSEJNQ29PQUV3SFFZRFZSME8KQkJZRUZPM0lTNXJralRkdy9kM051SjJsS2dJNDRZcDhNQXdHQTFVZEV3RUIvd1FDTUFBd0RRWUpLb1pJaHZjTgpBUUVMQlFBRGdnRUJBQXBHZ0xLd1VyL2c3V3BJb1N6bmpMV2d5b0VZL1RxUUlraC9pRCtLemQwcURiLzUyaWNvCkJMN3FiOTU4RnMxVVhzZFRUV3lqYzdKaHVhVXFuOUxvMjBXU1JFY21oWlY3WE5EVnhvbDZhM1ZLWU5HdThudkUKdGRxWUpoNzlLMmlYQW14amNkTmYxQ0p1azJzRzNWRzJkT1dmeUJtN1hRK2dHam5Lc1N6VTEyL1VTYm85UDBHaQo3cm93bFAvQTROdnM1b2RoQ3JQbEJuWEJNSEo4cWJSY0g2ZkNOSTdRM1NJanVNL3JtN3UwakRYQ3B5aE1oZ1FLCkRUWkZ5ZDFpNjBWcUIrZDdYWEF2L0xNbUpRcjdXLzhnNEJuR002Uzl0NGZCekFrK0pjUUh6NVdBZ0pLU1l0eWsKUDFGVmRBZ2VLQWtoRFFOZXZ6MW1ZR2ZieERldXgyTDV1am89Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0KLS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURyakNDQXBhZ0F3SUJBZ0lKQUlHekw4OWNuOFdoTUEwR0NTcUdTSWIzRFFFQkN3VUFNRVl4Q3pBSkJnTlYKQkFZVEFrUkZNUnN3R1FZRFZRUUtEQkpVZDJsdVEwRlVJRWhOU1NCVFpYSjJaWEl4R2pBWUJnTlZCQU1NRVV4MQphMkZDWld3dFRtSXdNVjl5YjI5ME1DQVhEVEl5TURNeE5qQTVOVEExTVZvWUR6SXdOakF3TnpFME1EazFNRFV4CldqQkdNUXN3Q1FZRFZRUUdFd0pFUlRFYk1Ca0dBMVVFQ2d3U1ZIZHBia05CVkNCSVRVa2dVMlZ5ZG1WeU1Sb3cKR0FZRFZRUUREQkZNZFd0aFFtVnNMVTVpTURGZmNtOXZkRENDQVNJd0RRWUpLb1pJaHZjTkFRRUJCUUFEZ2dFUApBRENDQVFvQ2dnRUJBTXMzSkN1YmhJSWlWMWJ4bkdCd25adFNaYXF1cmZjbUZ6U1hrUGRWTTdVT3BocVQ0OUFkCng1ZVBNMWp4TldvQmdXbXhnN2JVUGZaOHhOMEh4SzE3SGZPSUQ3QnA4REhDdkp1bEFnNWV0MzhrN0FIT3ZYUlIKZmM2TkROQzBCQnZpSzBabmFBMGY2R2I3ZU4ySzE0UWJuUDlGNnRDeWcxM3pwUXNDVW13TmZUcGNubk9JdkNqcApMeHBlNkppWDB5T21EaThXV2hERXZUdlNWNEoxSTZwcFkrNkQrOXVPYzYvdXNDTVVNVkJCYjBpMU5CTC9UaDhNCmFFRGJXMUxTQW1ZN1NHbmJMT1JTbGpoZTlzcSszTHZ5ODdXQk9VajFjOUozL3VrZmJJenl2RjBNdFowRTJUYTIKdUszNGlKSGNpMENuc1RqWWpwS1pIVnhBUlQ0NUFab3V2d3NDQXdFQUFhT0JuRENCbVRCbkJnTlZIUkVFWURCZQpnZ2xzYjJOaGJHaHZjM1NIQkg4QUFBR0hFQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0NERXgxYTJGQ1pXd3RUbUl3Ck1ZSVpUSFZyWVVKbGJDMU9ZakF4TG1KbFkydG9iMlptTG1OdmJZY0VDaWdCQkljRXdLZ3NOb2NFd0tnNEFUQWQKQmdOVkhRNEVGZ1FVcGFRMWtCRU56Sjg5c015N1RjcEx5bWlUamJZd0R3WURWUjBUQVFIL0JBVXdBd0VCL3pBTgpCZ2txaGtpRzl3MEJBUXNGQUFPQ0FRRUF0bk14ai9ZWlZnbXZBNE1Ea2Nibks0bW43dlQ3anhzUUNYU2pUbmxGCkFmK3IyWjdOL1hnR240MWRLQWZxVVdHeHZibGJmQmcxTUZuUGtDRHdFOURRRlNZMXJUWXRzdW9pVXRNVlNQcFMKQmpVb1QyK0hYd2hjN2l1UFJOV3hrQWIrQS9BZzRCSkZhQThCL3g3bDQ1ZTY4c1I0MnVrekJheU9ncENHTEtRYgpZcVdEV2FWQ2dXUnlMME9mV2FRNlM3Tkc2WVFjT211cE16Tk1lUzQ3UUJGMmVtYmtZYktadHJtenhwMkNGUEpRCjVQcFpmUU42VW1lK1AweUNHak5HalVwWWdTWnlmN2NlZTRNZlAxbVJHZnB1S00vdjl1MjJDTHlvNEw2TktVdmEKSzdQQlF2SGt3ajhWUHduNzBZNDAyYmVRREhrcVkzT044UG9uWVJsTm5hK2NvQT09Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K",
+    "CERTIFICATE": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUQ5ekNDQXQrZ0F3SUJBZ0lKQUtOZ3BrS2lBbVZjTUEwR0NTcUdTSWIzRFFFQkN3VUFNRVl4Q3pBSkJnTlYKQkFZVEFrUkZNUnN3R1FZRFZRUUtEQkpVZDJsdVEwRlVJRWhOU1NCVFpYSjJaWEl4R2pBWUJnTlZCQU1NRVV4MQphMkZDWld3dFRtSXdNVjl5YjI5ME1DQVhEVEl6TURVeE56RXpOREV3TUZvWUR6SXdOakV3T1RFME1UTTBNVEF3CldqQkJNUXN3Q1FZRFZRUUdFd0pFUlRFYk1Ca0dBMVVFQ2d3U1ZIZHBia05CVkNCSVRVa2dVMlZ5ZG1WeU1SVXcKRXdZRFZRUUREQXhNZFd0aFFtVnNMVTVpTURFd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFSwpBb0lCQVFDL1ZQR3hTc2JpQnVrNFc3d0tQRU5qT2FCWVpja1ZDT25pbnhBL3MwaC9RZGpaTXpyRnljUlR6bU9RCmE1cVpHZ3JpVXFGMG5KVEhMTldIRmFQSUsrZk1SKzdEVUNXZnlZK3pwdmpjeTJBWmJ3cTNZT1pRNmFvYmN0VDYKWUtPWDF0YndqVnZpeWE1Y29PaTZWekwxV3ZkNW9RMDk1OWlXb0RuZUdFaFoxMERjNFgvLzVBS2VBMlQvUitoKwpvQ28wZUJXc1I0alFtcTNtWnRwTmFwZXEvclpKQWpNM1JDV3FjWVR2b3J5ejlHMXZUNmZSU29EZVVoVXZWVHZsCk1YVHlMcnJaRFNXeGhWRVJxS2pFZ3pobWpReDdhTytiRGg0Qm5yd2JqcVI1d3VrZm90c0tMVTVWb0pUUkNhSE4KU3NNRmw1V2w3aFhPa2U3SG84U3JFQW0wOEJRckFnTUJBQUdqZ2Vvd2dlY3dnYmNHQTFVZEVRU0JyekNCcklJSgpiRzlqWVd4b2IzTjBod1IvQUFBQmh4QUFBQUFBQUFBQUFBQUFBQUFBQUFBQmdneE1kV3RoUW1Wc0xVNWlNREdDCkdVeDFhMkZDWld3dFRtSXdNUzVpWldOcmFHOW1aaTVqYjIySEJBb29BUUtIQk1Db2lRR0hCTUNvS2dHSEJNQ28KTENXSEVQNkFBQUFBQUFBQWQ0MFYvaTlGN0RTSEVQNkFBQUFBQUFBQWpsTk9QLzVES2xxSEVQNkFBQUFBQUFBQQp4ZU4xVDdqUkhFT0hFUDZBQUFBQUFBQUE3NWVXaW52ZGJxMHdIUVlEVlIwT0JCWUVGTnRiUm1CbkxkR29QaHlKCmNIaWQ1ajQ1MEwyeU1Bd0dBMVVkRXdFQi93UUNNQUF3RFFZSktvWklodmNOQVFFTEJRQURnZ0VCQUUzUDFMRmQKMTdQYnFESFR3WmcyMnJ5Uk1IWjROQmsyYWI2OVA1VHdVTy9nRmNTeXYrUGp0OCtkak42YXlBRTAwZVA0c0xCVgpyWWVKckFmeDcwWGhTOUFxNDY1THFINGh2cm5DZmJ5WTlGWjZSL0lxeUpTUVEzVVBOcmpQUDBScGVjRmx0anRFCkhYdktwckxzQXFteSt2MTNXWmtWYjZ5TGhROXdaL3F3QktYK1o5V3VuVkxubUhBdDN0WlZrUTlXQkgvMk9pL2MKTFlHL1ozc0o3eDhHTFBmK05ZeVpQRWxUdlFvVzZPUFc2dWtyakRXYW5ubUFXaUU1OFM0OXBjeHUwaUxVM05hcwpsWXJvK0lwOTAydEVZVmNxeW0xMEtXK0J2MFpnNDM3cDVaVWJtS2ZNdEJmWThHYUh4SGFTUitpaW4zTVVaOTRVCm4ySldyMEMzL2xSOXpHND0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQotLS0tLUJFR0lOIENFUlRJRklDQVRFLS0tLS0KTUlJRC96Q0NBdWVnQXdJQkFnSUpBT05sYUFjSTRxWmxNQTBHQ1NxR1NJYjNEUUVCQ3dVQU1FWXhDekFKQmdOVgpCQVlUQWtSRk1Sc3dHUVlEVlFRS0RCSlVkMmx1UTBGVUlFaE5TU0JUWlhKMlpYSXhHakFZQmdOVkJBTU1FVXgxCmEyRkNaV3d0VG1Jd01WOXliMjkwTUNBWERUSXpNRFV4TnpFek5EQTFPVm9ZRHpJd05qRXdPVEUwTVRNME1EVTUKV2pCR01Rc3dDUVlEVlFRR0V3SkVSVEViTUJrR0ExVUVDZ3dTVkhkcGJrTkJWQ0JJVFVrZ1UyVnlkbVZ5TVJvdwpHQVlEVlFRRERCRk1kV3RoUW1Wc0xVNWlNREZmY205dmREQ0NBU0l3RFFZSktvWklodmNOQVFFQkJRQURnZ0VQCkFEQ0NBUW9DZ2dFQkFQTnIwdHVNRnlHTXhteS83QnZ1WFJvalB1dXlnbmh4RUlzWDB0QzYzMGdTaTFWc3oxVGMKZUFaVzZORFBqS2ttNlhpN3Q1QXJCWlJjUVVOU0dNc09WaUJHQk5ZUXpZZ2tLTk1JNnZHUUhHZmdCbHJiV3ZvSgphQS8xeVB2Wi9SdUxPM3p1TkVyRWowaTd6U2VIVjFnamt3MHE3dDJndTJyYUJkUEV4RkJSWWNCbWVNY0luVTIyCnhqd1NoTUE2VSs0RHlnLzlSa2JwRk4vd1JiaTMzR3BoMFRLWFU1U0NhdWREbjZGdERtWWZHZTlJMXY2ODBFd3MKRkhvNWIvcWtrTlVtck9UUzNWVnlOVjBvaXpSelNDVWJqQ3QxekdGSnp6Wm9yZEdkL3pBbXRydldMbzRpUzV3QwpKOGFGNXRRc21hYis4bU1aQytobzZkT0Jzc2puVElGaXEwOENBd0VBQWFPQjdUQ0I2akNCdHdZRFZSMFJCSUd2Ck1JR3NnZ2xzYjJOaGJHaHZjM1NIQkg4QUFBR0hFQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0NERXgxYTJGQ1pXd3QKVG1Jd01ZSVpUSFZyWVVKbGJDMU9ZakF4TG1KbFkydG9iMlptTG1OdmJZY0VDaWdCQW9jRXdLaUpBWWNFd0tncQpBWWNFd0tnc0pZY1Evb0FBQUFBQUFBQjNqUlgrTDBYc05JY1Evb0FBQUFBQUFBQ09VMDQvL2tNcVdvY1Evb0FBCkFBQUFBQURGNDNWUHVORWNRNGNRL29BQUFBQUFBQUR2bDVhS2U5MXVyVEFkQmdOVkhRNEVGZ1FVNmU2dGFoVngKeUdncDNtcWthYUJWV0ZDdVVpd3dEd1lEVlIwVEFRSC9CQVV3QXdFQi96QU5CZ2txaGtpRzl3MEJBUXNGQUFPQwpBUUVBMUhFS3Q5QmNtT0tWbE9MeFZVd2hKQko4TW1GNTNMSnREcTB5QmpyWFA1S2d5MnhoUTZNNVNucjBkb0crCkpHczF6OEZxSG1HWUJUMThtbVlodDBRV0o5RU9pM1RjQVdRSmdvNFVPb05MZlFFRVhDbmxpWXlDRkszajlwVG4KVUx3MWtHUmEycE5uUkN6S0JsbllDWFBaeDNyTzc2bVJpZWFXQ1BZQUJRYUNXVVRDNFZKcXk1U0krWDl4UzJ1dApGK3RRREZmWW9QbVU2b3FHMUlJMTB0Q3VUTHNmakpMSk9ZYldlS3V5NUZIbzNoZ2Q1c281d05PbVJYS2EydkJXCnM4NGwvOTJteEVzcFNLeitOUysvL1JJWDdBMGVwZVg4c1ZrczVnSGFOWU02MWhJMHd5NjNiQjZpRkhseW4xRnEKUHZtcGE4TVJ6ODJlc0lzM3NZM2wwVEhRUFE9PQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==",
     "CERTIFICATEEXPIRATION": "P14000D",
     "CHECKSUMENABLED": true,
     "CHUNKSIZE": 1048576,
@@ -17,6 +17,7 @@
         "remote"
     ],
     "COOKIEEXPIRATIONDATE": "P30D",
+    "CUSTOM_CSS": "",
     "DEFAULTAUTHEXTENSION": "TcHmiUserManagement",
     "DEFAULTDOCUMENT": [
         "Default.html"
@@ -79,13 +80,14 @@
         }
     ],
     "FLOODPROTECTION": 500,
+    "FLOODPROTECTION_LOG_INTERVAL": "PT1M",
     "GLOBALHTTPHEADERS": "{LASTMODIFIED}\nStrict-Transport-Security: max-age=31536000; includeSubDomains\nX-Content-Type-Options: nosniff\nContent-Security-Policy: frame-ancestors 'self'",
     "GZIPENABLED": true,
     "GZIPMINSIZE": 800,
     "HTTP_FLOODPROTECTION": 10,
     "INITTIMEOUT": "PT10S",
     "KEEP_ALIVE": "PT40S",
-    "KEY": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUV2UUlCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktjd2dnU2pBZ0VBQW9JQkFRRE0vV1RtRXNkUkpmZ2IKZzRhR3ZlQnZNTzBPMTQydkRLakpPRHJQQjBQV1E4dTZmZmlJUGlQK0dnTW11WGc0S0tJUEN6TitsYXVqODVobQprMytjUGFvQWErV28zMStiQ3hUSUU5VWRLMXppK2xiWWhZc29GVmQ4c0FUa2g0UDMwTmhpK2JsbFhjS0NmbWNCCjd5R01wZlZ4Z0E1QVdLZlNRdzVkWjlFOGU3a2QzU0N2blZxdkY2ajBnMGVIYkx5NlhoWU5kcEl1SkhXOU83YkcKaFdJeWxDY2tydG9iT3VmRzNUQ2dSYzlvRUladTBzc0ZHcHRWZlk1K3I1SW5IbVhkUG5sNVNDQ3o4dkpnRTBxTwpacVFzQzB1VUN3Z2lPZ09TTFZWMDZIR1FocTBLdTNTZGZHaGFGWGFTL1RJcVhqSmJhN09yL0JrSEpVUjh6eExSCkQ0em4yWTVIQWdNQkFBRUNnZ0VBZXZWMzQyWGFOdnZPZ2pwM3BEVWEvYmRjU3UzVEovQXhBbG4vTkpYSUJDc3cKZGhILzFVRm85NCtFMm1LZ0VSZVdkZTJqR3NnT1o4N0RXS3dhL0k0a2ZoSTZkUHhmN2JGTTZ1S3lqOGVsOU9SeQoyWGZwUzhiWmJvcHF0T1h3cStLVEdYTnYyTFRQNnRTRlZ5eW9kQ1JNUUtPdWFMeUZGZU54SjJnUm92VVh5aWY0Cm5Gd2ZNcVAzSzNVRGZEblMxVmNQc3NZVE5yWHBnNHR3TGxrNEJteW5pblVwZ2NOR1JneGRlOXp3NXRFOVJqM2oKYzM5djZ1WFA1akppZGptRFZKY1ZUUHJlVWtRNVRNdkxsdGtWWTZmQjZtL3VPd2JkT0M2b0g0N3R3SldraVBUVgoraTRwUm44dFFHcC9WS3pDTVlpa0crNU9hSlpCWEhjS21VOGNrLzRVQVFLQmdRRCtBYjR5YWIrTHJJYkJVcnQrCmQxREZqSlRhTjdOR3MyaklXY20wRzlvUkZJZnV2YkFKNW4vSEg4RjJMbDY5T2w1bzVWajdXUUhyN3lZdlh2WU0KbjdhYzY3eHFWWld2YUwyK0V4cmoxNkxRYXdqaDVQZlpnY01jYytnbWlrNHA3cVFLcjYrR1dKa3hWRDZCZDZjUAo4eXJmWld0ZVVVdmVQVi9qNk01SDFnT3dSd0tCZ1FET21TOHMzUTZsTWFsWU9uUWdSMkIwZ3FRM3ZVaXlOQjFECldFaEUxYmwzdnJUTE54MlVSaFN6UTQ5dkRKcHdjTnhIemt2YktxendvcE9QWXVNUmlMNWMxRXI2dTRZZGdneWgKSS91YXZKVVhudENKQ1NXK1crZWplNmhXYjlITzBxYTZRMUU0WVFRY0Nlbkx3dlp3cVgvdzVKWkdod0prMUhnaApheExIdDFneUFRS0JnUUQyS0lwQ0lPbFlXdUpkQitoY0x4VS8zWFdENU9jQVpXM3VlOVZWam9oT2RTOG0xdjE3CkdyNUtJeVJCZTc2a2M2UjYwNGpnVE9ubjArT1ZsTm11Y2psdTZhVzNCeW9BeStqV0EzM1R3RzR3dlFubW9SYncKMnloU3NxRVFlSWczYXVYZTFWT3RScjl2WnMwTWV3Q1VISHczOHZtU2RnYW9ZYUpFSktHRVRJdFdrUUtCZ0NzZApndC9jL2tweFU4TUs1K000b2lPT2hCRHgyckw5OTBGdnNoMVRjUkpSWlUrbm4rK3F0SFU0MnowMHB5SmlHMGFOCkFmMnFLVTlLem5xMUMyaEVYbDNuSEFLNWtlS2ttbGdpdDBaeXByYTRPUkx3S3NWUVRzWXFiMVlpbmVtSXdxeksKa2Erdloza21oSGsycGRHYlBnMGExMVcrcFR3L3J4WmlUeGdJNWtvQkFvR0FQRVpWQmMwMk9UUDdXVmZrNXdkZApzRFcrZFEwdzdydkZNN0h4K3FwN1N3ZWhvOGt4MzJxdW4ybDVlN2tMME8zYkVpN1JxZkNQRzFGVXhaTDdFRkVDCmVJdi8wNGZLaC9JVkNLVUF6MjNiZXg5MEVuQURPdnM3T0ZZZWJKUkRHYmVzbllRUmpkWFdnL2Q5bWJVRmYwNHUKK01xUWNORS9DM3dJd0FPbTlwY0JXNEk9Ci0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS0K",
+    "KEY": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUV2Z0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktnd2dnU2tBZ0VBQW9JQkFRQy9WUEd4U3NiaUJ1azQKVzd3S1BFTmpPYUJZWmNrVkNPbmlueEEvczBoL1FkalpNenJGeWNSVHptT1FhNXFaR2dyaVVxRjBuSlRITE5XSApGYVBJSytmTVIrN0RVQ1dmeVkrenB2amN5MkFaYndxM1lPWlE2YW9iY3RUNllLT1gxdGJ3alZ2aXlhNWNvT2k2ClZ6TDFXdmQ1b1EwOTU5aVdvRG5lR0VoWjEwRGM0WC8vNUFLZUEyVC9SK2grb0NvMGVCV3NSNGpRbXEzbVp0cE4KYXBlcS9yWkpBak0zUkNXcWNZVHZvcnl6OUcxdlQ2ZlJTb0RlVWhVdlZUdmxNWFR5THJyWkRTV3hoVkVScUtqRQpnemhtalF4N2FPK2JEaDRCbnJ3YmpxUjV3dWtmb3RzS0xVNVZvSlRSQ2FITlNzTUZsNVdsN2hYT2tlN0hvOFNyCkVBbTA4QlFyQWdNQkFBRUNnZ0VBRlovVkhUT1ZYTkJwSlh5QXVTdHNkbGQ1L3VPcUlWMTdpYWh1bnJSMW1pUm8KRE14VWRTeERxekVsWVpvM3c5d0VwT1d2NTgwV3A1Z3luZXpkTU85OWFFSXRBeGdZMklGZ1kyNllxK08wZmN0bQpDNm5BL2g0YW9yV015cXVIY2M3UFJpckQydEx1aVB1S3Noek8zcG9rWkRQR21sdU15Q0ZkeVBNM29pZkk1ZTNJClhZaDNNOWowaGZrNEdsZ1RVZWR6ZUl1WXB1SkNNbGJKMDlBQzlSa2NNWWdjRG5NOGJUYlRvSG5jRlcxZm5HTG0KRHJsWW8wVHZuYUJxRC9ISjZmWTJaZkRXWHZjTEl6Q3VUMGJET3dRTzZLMlMvcmt6S2hwYmlmdUFOSFZTUnQzbApERjRiMVQ1cEx5TFN1NWduV05CYVVNT0VUMlFteFVTQmRPUUlyYXlzeVFLQmdRRHlPVmpobUhmN3hsSEx1RTU1CkJVRFM5SUV6RTZXTVRsdG5DOTJkZzRLeGtKazJOL2hWSnBlOWhlV0hHMHJXT29ib1g4TUVlM2RuY2FDd056ZjMKNDVTb0NKTHVvRlFQVDBqZDNrSHphQmxhUFlMbWU4b1l0S0xqNGF6SlRiWVRKSVFoY3ZrekNqMWVGMUhUeWVSdApSYzJyTGZ0enhvQS8zY1VCTUtYSVZ5THpCUUtCZ1FES05xSXczKytQQUVuc0lHcHpOelVqcm5EU2E3MTcyVlVxClBaVG1XTExCSVRENlNEWXUybjBXNVJ1M2dTM2JrL00xaFJ5a2ZjSVRGM1lqT0p1RkE5QnRTc2lvNjc5Zk1xd04Kckt3ZURPT0tpZzVxVE1icEZuWXI3RnZJdDZsNncvemtUTkltdU9maDBwRlhoVW1NQXpIZnBZcHRIdFJVamVRegpCOEdicjgzeGJ3S0JnUURxdlZpOWlCei9DcnJLU3RzQnZXMk5BeGNTZ0wrMnNWa3pDL1RCYVdtRzJ6TWZzQzRoCmx6MEdsblJSOHNrYnc2eHFGaVBRZkRiRE1RTWd3dUtpZ1JMWHBUZC91akM4aFlHQVFweDNYekx5bVJuNmM0enYKVkY5bnFKVGlvVVVLV0NFVXFXK0hYeTBKdWwrNmQ3Vy9rQjQ0L2w3cFhEMTlwMVg4U1VEZ1hsR29ZUUtCZ0d6QgoxWm5UMTFSaUkyQU1UelNJak53VUJqb21HRk4wSUlvSGRQNHUxblZwRko2SUdCdzdCdXc1YlI3Vks0VGRuZ0U3CkJweXh4cC9lRG53REJpSVVXeFZ0RTE5RzdEYVhXbEpBZkpIcy9MU1diQXBnSU50Y2FWSldYVWNuQU5BMmVOMlIKTTdYLzNUZG51U1FKVy9VaUFzRDJsK3o0bDlxaU5nbjhNZlU2S05taEFvR0JBSS94TGE2ZmE5cTBmU1p0eTV2UgptdFFEbm9Kdnc1NXZwc1Z4ZFZBaFdTaXNZMzU0emRrMGE3YUt6UWV1NlJPNjYyZ2xZSk56a1ZoYUp0a2VMN2dBCkk1ZUdDQlBUdjJiMFhRZkVvZGkxN2xnaEk2MmdLYWloMEh0eEdMZGVNU0NXZWJ2VEc2N25lR0dYazVEN09RenIKMlFZQkRZdHlOWlJKM1JFT0JMWGpiYUJHCi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS0K",
     "KEYPASSWORD": "",
     "LOCKOUT_PROTECTION_CLIENT_CERTIFICATE": true,
     "MAXCONNECTIONSPERCLIENT": 32,
@@ -436,12 +438,12 @@
     "REMOTESERVERS": {},
     "REMOTESERVERS_CERTIFICATES": [],
     "REQUIREAUTH": 0,
-    "REVALIDATION": true,
     "SAMESITE_ATTRIBUTE": 2,
-    "SELFSIGNEDROOTCA": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURyakNDQXBhZ0F3SUJBZ0lKQUlHekw4OWNuOFdoTUEwR0NTcUdTSWIzRFFFQkN3VUFNRVl4Q3pBSkJnTlYKQkFZVEFrUkZNUnN3R1FZRFZRUUtEQkpVZDJsdVEwRlVJRWhOU1NCVFpYSjJaWEl4R2pBWUJnTlZCQU1NRVV4MQphMkZDWld3dFRtSXdNVjl5YjI5ME1DQVhEVEl5TURNeE5qQTVOVEExTVZvWUR6SXdOakF3TnpFME1EazFNRFV4CldqQkdNUXN3Q1FZRFZRUUdFd0pFUlRFYk1Ca0dBMVVFQ2d3U1ZIZHBia05CVkNCSVRVa2dVMlZ5ZG1WeU1Sb3cKR0FZRFZRUUREQkZNZFd0aFFtVnNMVTVpTURGZmNtOXZkRENDQVNJd0RRWUpLb1pJaHZjTkFRRUJCUUFEZ2dFUApBRENDQVFvQ2dnRUJBTXMzSkN1YmhJSWlWMWJ4bkdCd25adFNaYXF1cmZjbUZ6U1hrUGRWTTdVT3BocVQ0OUFkCng1ZVBNMWp4TldvQmdXbXhnN2JVUGZaOHhOMEh4SzE3SGZPSUQ3QnA4REhDdkp1bEFnNWV0MzhrN0FIT3ZYUlIKZmM2TkROQzBCQnZpSzBabmFBMGY2R2I3ZU4ySzE0UWJuUDlGNnRDeWcxM3pwUXNDVW13TmZUcGNubk9JdkNqcApMeHBlNkppWDB5T21EaThXV2hERXZUdlNWNEoxSTZwcFkrNkQrOXVPYzYvdXNDTVVNVkJCYjBpMU5CTC9UaDhNCmFFRGJXMUxTQW1ZN1NHbmJMT1JTbGpoZTlzcSszTHZ5ODdXQk9VajFjOUozL3VrZmJJenl2RjBNdFowRTJUYTIKdUszNGlKSGNpMENuc1RqWWpwS1pIVnhBUlQ0NUFab3V2d3NDQXdFQUFhT0JuRENCbVRCbkJnTlZIUkVFWURCZQpnZ2xzYjJOaGJHaHZjM1NIQkg4QUFBR0hFQUFBQUFBQUFBQUFBQUFBQUFBQUFBR0NERXgxYTJGQ1pXd3RUbUl3Ck1ZSVpUSFZyWVVKbGJDMU9ZakF4TG1KbFkydG9iMlptTG1OdmJZY0VDaWdCQkljRXdLZ3NOb2NFd0tnNEFUQWQKQmdOVkhRNEVGZ1FVcGFRMWtCRU56Sjg5c015N1RjcEx5bWlUamJZd0R3WURWUjBUQVFIL0JBVXdBd0VCL3pBTgpCZ2txaGtpRzl3MEJBUXNGQUFPQ0FRRUF0bk14ai9ZWlZnbXZBNE1Ea2Nibks0bW43dlQ3anhzUUNYU2pUbmxGCkFmK3IyWjdOL1hnR240MWRLQWZxVVdHeHZibGJmQmcxTUZuUGtDRHdFOURRRlNZMXJUWXRzdW9pVXRNVlNQcFMKQmpVb1QyK0hYd2hjN2l1UFJOV3hrQWIrQS9BZzRCSkZhQThCL3g3bDQ1ZTY4c1I0MnVrekJheU9ncENHTEtRYgpZcVdEV2FWQ2dXUnlMME9mV2FRNlM3Tkc2WVFjT211cE16Tk1lUzQ3UUJGMmVtYmtZYktadHJtenhwMkNGUEpRCjVQcFpmUU42VW1lK1AweUNHak5HalVwWWdTWnlmN2NlZTRNZlAxbVJHZnB1S00vdjl1MjJDTHlvNEw2TktVdmEKSzdQQlF2SGt3ajhWUHduNzBZNDAyYmVRREhrcVkzT044UG9uWVJsTm5hK2NvQT09Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0K",
-    "SELFSIGNEDROOTCAKEY": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUV2UUlCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktjd2dnU2pBZ0VBQW9JQkFRRE0vV1RtRXNkUkpmZ2IKZzRhR3ZlQnZNTzBPMTQydkRLakpPRHJQQjBQV1E4dTZmZmlJUGlQK0dnTW11WGc0S0tJUEN6TitsYXVqODVobQprMytjUGFvQWErV28zMStiQ3hUSUU5VWRLMXppK2xiWWhZc29GVmQ4c0FUa2g0UDMwTmhpK2JsbFhjS0NmbWNCCjd5R01wZlZ4Z0E1QVdLZlNRdzVkWjlFOGU3a2QzU0N2blZxdkY2ajBnMGVIYkx5NlhoWU5kcEl1SkhXOU83YkcKaFdJeWxDY2tydG9iT3VmRzNUQ2dSYzlvRUladTBzc0ZHcHRWZlk1K3I1SW5IbVhkUG5sNVNDQ3o4dkpnRTBxTwpacVFzQzB1VUN3Z2lPZ09TTFZWMDZIR1FocTBLdTNTZGZHaGFGWGFTL1RJcVhqSmJhN09yL0JrSEpVUjh6eExSCkQ0em4yWTVIQWdNQkFBRUNnZ0VBZXZWMzQyWGFOdnZPZ2pwM3BEVWEvYmRjU3UzVEovQXhBbG4vTkpYSUJDc3cKZGhILzFVRm85NCtFMm1LZ0VSZVdkZTJqR3NnT1o4N0RXS3dhL0k0a2ZoSTZkUHhmN2JGTTZ1S3lqOGVsOU9SeQoyWGZwUzhiWmJvcHF0T1h3cStLVEdYTnYyTFRQNnRTRlZ5eW9kQ1JNUUtPdWFMeUZGZU54SjJnUm92VVh5aWY0Cm5Gd2ZNcVAzSzNVRGZEblMxVmNQc3NZVE5yWHBnNHR3TGxrNEJteW5pblVwZ2NOR1JneGRlOXp3NXRFOVJqM2oKYzM5djZ1WFA1akppZGptRFZKY1ZUUHJlVWtRNVRNdkxsdGtWWTZmQjZtL3VPd2JkT0M2b0g0N3R3SldraVBUVgoraTRwUm44dFFHcC9WS3pDTVlpa0crNU9hSlpCWEhjS21VOGNrLzRVQVFLQmdRRCtBYjR5YWIrTHJJYkJVcnQrCmQxREZqSlRhTjdOR3MyaklXY20wRzlvUkZJZnV2YkFKNW4vSEg4RjJMbDY5T2w1bzVWajdXUUhyN3lZdlh2WU0KbjdhYzY3eHFWWld2YUwyK0V4cmoxNkxRYXdqaDVQZlpnY01jYytnbWlrNHA3cVFLcjYrR1dKa3hWRDZCZDZjUAo4eXJmWld0ZVVVdmVQVi9qNk01SDFnT3dSd0tCZ1FET21TOHMzUTZsTWFsWU9uUWdSMkIwZ3FRM3ZVaXlOQjFECldFaEUxYmwzdnJUTE54MlVSaFN6UTQ5dkRKcHdjTnhIemt2YktxendvcE9QWXVNUmlMNWMxRXI2dTRZZGdneWgKSS91YXZKVVhudENKQ1NXK1crZWplNmhXYjlITzBxYTZRMUU0WVFRY0Nlbkx3dlp3cVgvdzVKWkdod0prMUhnaApheExIdDFneUFRS0JnUUQyS0lwQ0lPbFlXdUpkQitoY0x4VS8zWFdENU9jQVpXM3VlOVZWam9oT2RTOG0xdjE3CkdyNUtJeVJCZTc2a2M2UjYwNGpnVE9ubjArT1ZsTm11Y2psdTZhVzNCeW9BeStqV0EzM1R3RzR3dlFubW9SYncKMnloU3NxRVFlSWczYXVYZTFWT3RScjl2WnMwTWV3Q1VISHczOHZtU2RnYW9ZYUpFSktHRVRJdFdrUUtCZ0NzZApndC9jL2tweFU4TUs1K000b2lPT2hCRHgyckw5OTBGdnNoMVRjUkpSWlUrbm4rK3F0SFU0MnowMHB5SmlHMGFOCkFmMnFLVTlLem5xMUMyaEVYbDNuSEFLNWtlS2ttbGdpdDBaeXByYTRPUkx3S3NWUVRzWXFiMVlpbmVtSXdxeksKa2Erdloza21oSGsycGRHYlBnMGExMVcrcFR3L3J4WmlUeGdJNWtvQkFvR0FQRVpWQmMwMk9UUDdXVmZrNXdkZApzRFcrZFEwdzdydkZNN0h4K3FwN1N3ZWhvOGt4MzJxdW4ybDVlN2tMME8zYkVpN1JxZkNQRzFGVXhaTDdFRkVDCmVJdi8wNGZLaC9JVkNLVUF6MjNiZXg5MEVuQURPdnM3T0ZZZWJKUkRHYmVzbllRUmpkWFdnL2Q5bWJVRmYwNHUKK01xUWNORS9DM3dJd0FPbTlwY0JXNEk9Ci0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS0K",
+    "SELFSIGNEDROOTCA": "LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUQvekNDQXVlZ0F3SUJBZ0lKQU9ObGFBY0k0cVpsTUEwR0NTcUdTSWIzRFFFQkN3VUFNRVl4Q3pBSkJnTlYKQkFZVEFrUkZNUnN3R1FZRFZRUUtEQkpVZDJsdVEwRlVJRWhOU1NCVFpYSjJaWEl4R2pBWUJnTlZCQU1NRVV4MQphMkZDWld3dFRtSXdNVjl5YjI5ME1DQVhEVEl6TURVeE56RXpOREExT1ZvWUR6SXdOakV3T1RFME1UTTBNRFU1CldqQkdNUXN3Q1FZRFZRUUdFd0pFUlRFYk1Ca0dBMVVFQ2d3U1ZIZHBia05CVkNCSVRVa2dVMlZ5ZG1WeU1Sb3cKR0FZRFZRUUREQkZNZFd0aFFtVnNMVTVpTURGZmNtOXZkRENDQVNJd0RRWUpLb1pJaHZjTkFRRUJCUUFEZ2dFUApBRENDQVFvQ2dnRUJBUE5yMHR1TUZ5R014bXkvN0J2dVhSb2pQdXV5Z25oeEVJc1gwdEM2MzBnU2kxVnN6MVRjCmVBWlc2TkRQaktrbTZYaTd0NUFyQlpSY1FVTlNHTXNPVmlCR0JOWVF6WWdrS05NSTZ2R1FIR2ZnQmxyYld2b0oKYUEvMXlQdlovUnVMTzN6dU5FckVqMGk3elNlSFYxZ2prdzBxN3QyZ3UycmFCZFBFeEZCUlljQm1lTWNJblUyMgp4andTaE1BNlUrNER5Zy85UmticEZOL3dSYmkzM0dwaDBUS1hVNVNDYXVkRG42RnREbVlmR2U5STF2NjgwRXdzCkZIbzViL3Fra05VbXJPVFMzVlZ5TlYwb2l6UnpTQ1ViakN0MXpHRkp6elpvcmRHZC96QW10cnZXTG80aVM1d0MKSjhhRjV0UXNtYWIrOG1NWkMraG82ZE9Cc3NqblRJRmlxMDhDQXdFQUFhT0I3VENCNmpDQnR3WURWUjBSQklHdgpNSUdzZ2dsc2IyTmhiR2h2YzNTSEJIOEFBQUdIRUFBQUFBQUFBQUFBQUFBQUFBQUFBQUdDREV4MWEyRkNaV3d0ClRtSXdNWUlaVEhWcllVSmxiQzFPWWpBeExtSmxZMnRvYjJabUxtTnZiWWNFQ2lnQkFvY0V3S2lKQVljRXdLZ3EKQVljRXdLZ3NKWWNRL29BQUFBQUFBQUIzalJYK0wwWHNOSWNRL29BQUFBQUFBQUNPVTA0Ly9rTXFXb2NRL29BQQpBQUFBQUFERjQzVlB1TkVjUTRjUS9vQUFBQUFBQUFEdmw1YUtlOTF1clRBZEJnTlZIUTRFRmdRVTZlNnRhaFZ4CnlHZ3AzbXFrYWFCVldGQ3VVaXd3RHdZRFZSMFRBUUgvQkFVd0F3RUIvekFOQmdrcWhraUc5dzBCQVFzRkFBT0MKQVFFQTFIRUt0OUJjbU9LVmxPTHhWVXdoSkJKOE1tRjUzTEp0RHEweUJqclhQNUtneTJ4aFE2TTVTbnIwZG9HKwpKR3MxejhGcUhtR1lCVDE4bW1ZaHQwUVdKOUVPaTNUY0FXUUpnbzRVT29OTGZRRUVYQ25saVl5Q0ZLM2o5cFRuClVMdzFrR1JhMnBOblJDektCbG5ZQ1hQWngzck83Nm1SaWVhV0NQWUFCUWFDV1VUQzRWSnF5NVNJK1g5eFMydXQKRit0UURGZllvUG1VNm9xRzFJSTEwdEN1VExzZmpKTEpPWWJXZUt1eTVGSG8zaGdkNXNvNXdOT21SWEthMnZCVwpzODRsLzkybXhFc3BTS3orTlMrLy9SSVg3QTBlcGVYOHNWa3M1Z0hhTllNNjFoSTB3eTYzYkI2aUZIbHluMUZxClB2bXBhOE1SejgyZXNJczNzWTNsMFRIUVBRPT0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=",
+    "SELFSIGNEDROOTCAKEY": "LS0tLS1CRUdJTiBQUklWQVRFIEtFWS0tLS0tCk1JSUV2Z0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktnd2dnU2tBZ0VBQW9JQkFRQy9WUEd4U3NiaUJ1azQKVzd3S1BFTmpPYUJZWmNrVkNPbmlueEEvczBoL1FkalpNenJGeWNSVHptT1FhNXFaR2dyaVVxRjBuSlRITE5XSApGYVBJSytmTVIrN0RVQ1dmeVkrenB2amN5MkFaYndxM1lPWlE2YW9iY3RUNllLT1gxdGJ3alZ2aXlhNWNvT2k2ClZ6TDFXdmQ1b1EwOTU5aVdvRG5lR0VoWjEwRGM0WC8vNUFLZUEyVC9SK2grb0NvMGVCV3NSNGpRbXEzbVp0cE4KYXBlcS9yWkpBak0zUkNXcWNZVHZvcnl6OUcxdlQ2ZlJTb0RlVWhVdlZUdmxNWFR5THJyWkRTV3hoVkVScUtqRQpnemhtalF4N2FPK2JEaDRCbnJ3YmpxUjV3dWtmb3RzS0xVNVZvSlRSQ2FITlNzTUZsNVdsN2hYT2tlN0hvOFNyCkVBbTA4QlFyQWdNQkFBRUNnZ0VBRlovVkhUT1ZYTkJwSlh5QXVTdHNkbGQ1L3VPcUlWMTdpYWh1bnJSMW1pUm8KRE14VWRTeERxekVsWVpvM3c5d0VwT1d2NTgwV3A1Z3luZXpkTU85OWFFSXRBeGdZMklGZ1kyNllxK08wZmN0bQpDNm5BL2g0YW9yV015cXVIY2M3UFJpckQydEx1aVB1S3Noek8zcG9rWkRQR21sdU15Q0ZkeVBNM29pZkk1ZTNJClhZaDNNOWowaGZrNEdsZ1RVZWR6ZUl1WXB1SkNNbGJKMDlBQzlSa2NNWWdjRG5NOGJUYlRvSG5jRlcxZm5HTG0KRHJsWW8wVHZuYUJxRC9ISjZmWTJaZkRXWHZjTEl6Q3VUMGJET3dRTzZLMlMvcmt6S2hwYmlmdUFOSFZTUnQzbApERjRiMVQ1cEx5TFN1NWduV05CYVVNT0VUMlFteFVTQmRPUUlyYXlzeVFLQmdRRHlPVmpobUhmN3hsSEx1RTU1CkJVRFM5SUV6RTZXTVRsdG5DOTJkZzRLeGtKazJOL2hWSnBlOWhlV0hHMHJXT29ib1g4TUVlM2RuY2FDd056ZjMKNDVTb0NKTHVvRlFQVDBqZDNrSHphQmxhUFlMbWU4b1l0S0xqNGF6SlRiWVRKSVFoY3ZrekNqMWVGMUhUeWVSdApSYzJyTGZ0enhvQS8zY1VCTUtYSVZ5THpCUUtCZ1FES05xSXczKytQQUVuc0lHcHpOelVqcm5EU2E3MTcyVlVxClBaVG1XTExCSVRENlNEWXUybjBXNVJ1M2dTM2JrL00xaFJ5a2ZjSVRGM1lqT0p1RkE5QnRTc2lvNjc5Zk1xd04Kckt3ZURPT0tpZzVxVE1icEZuWXI3RnZJdDZsNncvemtUTkltdU9maDBwRlhoVW1NQXpIZnBZcHRIdFJVamVRegpCOEdicjgzeGJ3S0JnUURxdlZpOWlCei9DcnJLU3RzQnZXMk5BeGNTZ0wrMnNWa3pDL1RCYVdtRzJ6TWZzQzRoCmx6MEdsblJSOHNrYnc2eHFGaVBRZkRiRE1RTWd3dUtpZ1JMWHBUZC91akM4aFlHQVFweDNYekx5bVJuNmM0enYKVkY5bnFKVGlvVVVLV0NFVXFXK0hYeTBKdWwrNmQ3Vy9rQjQ0L2w3cFhEMTlwMVg4U1VEZ1hsR29ZUUtCZ0d6QgoxWm5UMTFSaUkyQU1UelNJak53VUJqb21HRk4wSUlvSGRQNHUxblZwRko2SUdCdzdCdXc1YlI3Vks0VGRuZ0U3CkJweXh4cC9lRG53REJpSVVXeFZ0RTE5RzdEYVhXbEpBZkpIcy9MU1diQXBnSU50Y2FWSldYVWNuQU5BMmVOMlIKTTdYLzNUZG51U1FKVy9VaUFzRDJsK3o0bDlxaU5nbjhNZlU2S05taEFvR0JBSS94TGE2ZmE5cTBmU1p0eTV2UgptdFFEbm9Kdnc1NXZwc1Z4ZFZBaFdTaXNZMzU0emRrMGE3YUt6UWV1NlJPNjYyZ2xZSk56a1ZoYUp0a2VMN2dBCkk1ZUdDQlBUdjJiMFhRZkVvZGkxN2xnaEk2MmdLYWloMEh0eEdMZGVNU0NXZWJ2VEc2N25lR0dYazVEN09RenIKMlFZQkRZdHlOWlJKM1JFT0JMWGpiYUJHCi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS0K",
     "SESSIONSTORAGE": {},
     "SHOW_CONFIGURATION_HINTS": true,
+    "SHOW_MAINTENANCE_MODE": true,
     "SHUTDOWNTIMEOUT": "PT10S",
     "SOCKET_TIMEOUT": "PT10S",
     "SYMBOLS": {
@@ -755,6 +757,13 @@
                                     "readOnly": true,
                                     "type": "string"
                                 },
+                                "adsVersionBuild": {
+                                    "hidden": true,
+                                    "minimum": 0.0,
+                                    "propertyOrder": 9,
+                                    "readOnly": true,
+                                    "type": "integer"
+                                },
                                 "connectionState": {
                                     "propertyOrder": 1,
                                     "readOnly": true,
@@ -767,7 +776,7 @@
                                 },
                                 "isUserModeRuntime": {
                                     "hidden": true,
-                                    "propertyOrder": 9,
+                                    "propertyOrder": 10,
                                     "readOnly": true,
                                     "type": "boolean"
                                 },
@@ -791,7 +800,6 @@
                     }
                 },
                 "readOnly": true,
-                "transient": true,
                 "type": "object"
             },
             "SUBSYMBOL_MAPPING": "",
@@ -826,6 +834,19 @@
                 }
             },
             "SUBSYMBOL_MAPPING": "",
+            "USEMAPPING": true
+        },
+        "ADS.GetSystemId": {
+            "ACCESS": 3,
+            "DOMAIN": "ADS",
+            "DYNAMIC": false,
+            "HIDDEN": true,
+            "MAPPING": "GetSystemId",
+            "OPTIONS": {},
+            "SCHEMA": {
+                "function": true,
+                "type": "string"
+            },
             "USEMAPPING": true
         },
         "ADS.ListCommonTypes": {
@@ -941,6 +962,7 @@
                         {
                             "properties": {
                                 "NETID": {
+                                    "format": "amsnetid",
                                     "type": "string"
                                 },
                                 "all": {
@@ -1125,6 +1147,7 @@
         },
         "AddSymbols": {
             "ACCESS": 3,
+            "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSrv",
             "DYNAMIC": false,
             "HIDDEN": true,
@@ -1175,6 +1198,7 @@
                     "type": "object"
                 }
             },
+            "SUBSYMBOL_MAPPING": "",
             "USEMAPPING": true
         },
         "AddToConfiguration": {
@@ -1227,7 +1251,7 @@
                     "anyOf": [
                         {
                             "additionalProperties": false,
-                            "description": "Changes to the USERGROUPUSERS entry of the current user",
+                            "description": "Changes to the USERGROUPUSERS entry of the current user.",
                             "properties": {
                                 "changePassword": {
                                     "allOf": [
@@ -1432,29 +1456,24 @@
                 "properties": {
                     "ACCEPTEDSOCKETS": {
                         "readOnly": true,
-                        "transient": true,
                         "type": "integer"
                     },
                     "ACTIVESESSIONS": {
                         "link": "Sessions",
                         "readOnly": true,
-                        "transient": true,
                         "type": "integer"
                     },
                     "ACTIVESOCKETS": {
                         "readOnly": true,
-                        "transient": true,
                         "type": "integer"
                     },
                     "ARCHITECTURE": {
                         "readOnly": true,
-                        "transient": true,
                         "type": "string"
                     },
                     "DISCOVERY_RUNNING": {
                         "hidden": true,
                         "readOnly": true,
-                        "transient": true,
                         "type": "boolean"
                     },
                     "DOTNETCLASSICVERSIONS": {
@@ -1463,7 +1482,6 @@
                             "type": "string"
                         },
                         "readOnly": true,
-                        "transient": true,
                         "type": "array"
                     },
                     "DOTNETCOREVERSIONS": {
@@ -1472,7 +1490,6 @@
                             "type": "string"
                         },
                         "readOnly": true,
-                        "transient": true,
                         "type": "array"
                     },
                     "DOTNETVERSIONS": {
@@ -1481,7 +1498,6 @@
                             "type": "string"
                         },
                         "readOnly": true,
-                        "transient": true,
                         "type": "array"
                     },
                     "LICENSE": {
@@ -1489,19 +1505,16 @@
                             "CLIENTS": {
                                 "propertyOrder": 2,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "integer"
                             },
                             "EXTENSIONS": {
                                 "propertyOrder": 6,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "boolean"
                             },
                             "SERVERS": {
                                 "propertyOrder": 1,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "integer"
                             },
                             "STATE": {
@@ -1521,30 +1534,25 @@
                             "TARGETS": {
                                 "propertyOrder": 4,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "integer"
                             },
                             "USEDCLIENTS": {
                                 "propertyOrder": 3,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "integer"
                             },
                             "USEDTARGETS": {
                                 "propertyOrder": 5,
                                 "readOnly": true,
-                                "transient": true,
                                 "type": "integer"
                             }
                         },
                         "readOnly": true,
-                        "transient": true,
                         "type": "object"
                     },
                     "MEMORYUSAGE": {
                         "displayClass": "megabyte",
                         "readOnly": true,
-                        "transient": true,
                         "type": "number"
                     },
                     "REMOTESERVERS": {
@@ -1569,7 +1577,6 @@
                                     ],
                                     "propertyOrder": 1,
                                     "readOnly": true,
-                                    "transient": true,
                                     "type": "string"
                                 }
                             },
@@ -1579,39 +1586,64 @@
                             "type": "object"
                         },
                         "readOnly": true,
-                        "transient": true,
                         "type": "object"
                     },
                     "SERVERTIME": {
                         "format": "date-time",
                         "readOnly": true,
-                        "transient": true,
                         "type": "string"
                     },
                     "TRAFFICIN": {
                         "displayClass": "byte",
                         "readOnly": true,
-                        "transient": true,
                         "type": "number"
                     },
                     "TRAFFICOUT": {
                         "displayClass": "byte",
                         "readOnly": true,
-                        "transient": true,
                         "type": "number"
                     },
                     "UPTIME": {
                         "format": "timespan",
                         "readOnly": true,
-                        "transient": true,
                         "type": "string"
                     }
                 },
                 "readOnly": true,
-                "transient": true,
                 "type": "object"
             },
             "SUBSYMBOL_MAPPING": "",
+            "USEMAPPING": true
+        },
+        "Export": {
+            "ACCESS": 3,
+            "DOMAIN": "TcHmiSrv",
+            "DYNAMIC": false,
+            "HIDDEN": true,
+            "MAPPING": "Export",
+            "OPTIONS": {},
+            "SCHEMA": {
+                "function": true,
+                "writeValue": {
+                    "properties": {
+                        "domain": {
+                            "type": "string"
+                        },
+                        "full": {
+                            "default": false,
+                            "type": "boolean"
+                        },
+                        "name": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "name",
+                        "domain"
+                    ],
+                    "type": "object"
+                }
+            },
             "USEMAPPING": true
         },
         "ForceLogout": {
@@ -1792,6 +1824,35 @@
                 }
             },
             "SUBSYMBOL_MAPPING": "",
+            "USEMAPPING": true
+        },
+        "GetFileInformation": {
+            "ACCESS": 3,
+            "DOMAIN": "TcHmiSrv",
+            "DYNAMIC": false,
+            "HIDDEN": true,
+            "MAPPING": "GetFileInformation",
+            "OPTIONS": {},
+            "SCHEMA": {
+                "allOf": [
+                    {
+                        "function": true
+                    },
+                    {
+                        "$ref": "tchmi:server#/definitions/fileInfo"
+                    },
+                    {
+                        "required": [
+                            "modificationTime",
+                            "fileSize",
+                            "access"
+                        ]
+                    }
+                ],
+                "writeValue": {
+                    "type": "string"
+                }
+            },
             "USEMAPPING": true
         },
         "GetSchema": {
@@ -1977,6 +2038,10 @@
                     "subscriptions": {
                         "additionalProperties": {
                             "properties": {
+                                "averageDuration": {
+                                    "format": "timespan",
+                                    "type": "string"
+                                },
                                 "clientCount": {
                                     "type": "integer"
                                 },
@@ -1986,6 +2051,11 @@
                                             "lastSent": {
                                                 "format": "date-time",
                                                 "type": "string"
+                                            },
+                                            "readValueJsonLength": {
+                                                "displayClass": "byte",
+                                                "minimum": 0.0,
+                                                "type": "integer"
                                             },
                                             "symbol": {
                                                 "type": "string"
@@ -2002,6 +2072,11 @@
                                     "type": "integer"
                                 },
                                 "intervalTime": {
+                                    "type": "integer"
+                                },
+                                "readValueJsonLength": {
+                                    "displayClass": "byte",
+                                    "minimum": 0.0,
                                     "type": "integer"
                                 },
                                 "type": {
@@ -2023,7 +2098,27 @@
                         "type": "object"
                     }
                 },
-                "type": "object"
+                "type": "object",
+                "writeValue": {
+                    "anyOf": [
+                        {
+                            "properties": {
+                                "averageDuration": {
+                                    "default": false,
+                                    "type": "boolean"
+                                },
+                                "readValueJsonLength": {
+                                    "default": false,
+                                    "type": "boolean"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        {
+                            "$ref": "tchmi:general#/definitions/VOID"
+                        }
+                    ]
+                }
             },
             "SUBSYMBOL_MAPPING": "",
             "USEMAPPING": true
@@ -2238,34 +2333,21 @@
             "OPTIONS": {},
             "SCHEMA": {
                 "additionalProperties": {
-                    "properties": {
-                        "fileFlags": {
-                            "items": {
-                                "enum": [
-                                    "Directory",
-                                    "ReadOnly",
-                                    "UserAccessReadOnly",
-                                    "VirtualDirectory"
-                                ],
-                                "type": "string"
+                    "allOf": [
+                        {
+                            "$ref": "tchmi:server#/definitions/fileInfo"
+                        },
+                        {
+                            "properties": {
+                                "link": {
+                                    "type": "string"
+                                }
                             },
-                            "type": "array"
-                        },
-                        "fileSize": {
-                            "displayClass": "kilobyte",
-                            "type": "number"
-                        },
-                        "link": {
-                            "type": "string"
-                        },
-                        "modificationTime": {
-                            "type": "string"
+                            "required": [
+                                "fileFlags"
+                            ]
                         }
-                    },
-                    "required": [
-                        "fileFlags"
-                    ],
-                    "type": "object"
+                    ]
                 },
                 "function": true,
                 "type": "object",
@@ -2462,6 +2544,10 @@
                 "type": "string",
                 "writeValue": {
                     "properties": {
+                        "maintenanceMode": {
+                            "default": false,
+                            "type": "boolean"
+                        },
                         "password": {
                             "format": "encrypted",
                             "type": "string"
@@ -2849,12 +2935,30 @@
             "ACCESS": 3,
             "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSqliteLogger",
-            "DYNAMIC": true,
+            "DYNAMIC": false,
             "HIDDEN": true,
             "MAPPING": "Clear",
             "OPTIONS": {},
             "SCHEMA": {
-                "function": true
+                "function": true,
+                "writeValue": {
+                    "anyOf": [
+                        {
+                            "properties": {
+                                "match": {
+                                    "$ref": "tchmi:server#/definitions/filter"
+                                }
+                            },
+                            "required": [
+                                "match"
+                            ],
+                            "type": "object"
+                        },
+                        {
+                            "$ref": "tchmi:general#/definitions/VOID"
+                        }
+                    ]
+                }
             },
             "SUBSYMBOL_MAPPING": "",
             "USEMAPPING": true
@@ -2863,7 +2967,7 @@
             "ACCESS": 0,
             "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSqliteLogger",
-            "DYNAMIC": true,
+            "DYNAMIC": false,
             "HIDDEN": true,
             "MAPPING": "Config",
             "OPTIONS": {},
@@ -2875,7 +2979,7 @@
             "ACCESS": 1,
             "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSqliteLogger",
-            "DYNAMIC": true,
+            "DYNAMIC": false,
             "HIDDEN": true,
             "MAPPING": "Diagnostics",
             "OPTIONS": {},
@@ -3011,7 +3115,6 @@
                     "allDomains",
                     "perDomain"
                 ],
-                "transient": true,
                 "type": "object"
             },
             "SUBSYMBOL_MAPPING": "",
@@ -3021,7 +3124,7 @@
             "ACCESS": 3,
             "CUSTOMERDATA": "",
             "DOMAIN": "TcHmiSqliteLogger",
-            "DYNAMIC": true,
+            "DYNAMIC": false,
             "HIDDEN": true,
             "MAPPING": "ListEvents",
             "OPTIONS": {},
@@ -3061,6 +3164,7 @@
                         },
                         "password": {
                             "description": "Password of the user. Only a hash will be stored.",
+                            "format": "encrypted",
                             "type": "string"
                         },
                         "userName": {
@@ -3365,6 +3469,7 @@
     "TEMPDH": "",
     "THREADPOOLSIZE": 32,
     "UPLOADTIMEOUT": "PT20S",
+    "USEINT64STRING": false,
     "USERGROUPS": {
         "__SystemAdministrators": {
             "ENABLED": true,
@@ -3397,6 +3502,13 @@
                 "UserSelectType": 1
             }
         },
+        "__SystemMaintenanceUsers": {
+            "ENABLED": true,
+            "FILEACCESS": 3,
+            "FILES": {},
+            "SYMBOLACCESS": 0,
+            "SYMBOLS": {}
+        },
         "__SystemUsers": {
             "ENABLED": true,
             "FILEACCESS": 3,
@@ -3418,7 +3530,9 @@
                 "GetConfiguration": 3,
                 "GetCurrentUser": 3,
                 "GetDefinitions": 3,
+                "GetFileInformation": 3,
                 "GetSchema": 3,
+                "GetServerInformation": 3,
                 "GetSymbolAccess": 3,
                 "Heartbeat": 3,
                 "IsAuthRequired": 3,
@@ -3431,10 +3545,12 @@
                 "Logout": 3,
                 "SetLocale": 3,
                 "SubscribeEvents": 3,
+                "TcHmiSqliteLogger.Diagnostics": 1,
                 "TcHmiUserManagement.ChangePassword": 3,
                 "Unsubscribe": 3,
                 "UnsubscribeEvents": 3,
-                "UpdateEventsSubscription": 3
+                "UpdateEventsSubscription": 3,
+                "UserSelectType": 1
             }
         }
     },
@@ -3457,6 +3573,15 @@
                 "USERGROUPUSERS_LOCALE": "project",
                 "USERGROUPUSERS_TIMEFORMATLOCALE": "project",
                 "USERGROUPUSERS_TIMEZONE": "project"
+            },
+            "__SystemUser": {
+                "USERGROUPUSERS_AUTO_LOGOFF": "PT0S",
+                "USERGROUPUSERS_GROUPS": [
+                    "__SystemUsers"
+                ],
+                "USERGROUPUSERS_LOCALE": "project",
+                "USERGROUPUSERS_TIMEFORMATLOCALE": "project",
+                "USERGROUPUSERS_TIMEZONE": "project"
             }
         }
     },
@@ -3464,10 +3589,10 @@
     "VIDEOSEGMENTSIZE": 1048576,
     "VIRTUALDIRECTORIES": {
         "/": "..\\..\\AutoKB\\",
-        "/Beckhoff.TwinCAT.HMI.Controls": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Controls.12.758.8\\runtimes\\native1.12-tchmi",
-        "/Beckhoff.TwinCAT.HMI.Functions": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Functions.12.758.8\\runtimes\\native1.12-tchmi",
+        "/Beckhoff.TwinCAT.HMI.Controls": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Controls.12.760.37\\runtimes\\native1.12-tchmi",
+        "/Beckhoff.TwinCAT.HMI.Functions": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Functions.12.760.37\\runtimes\\native1.12-tchmi",
         "/bin": "..\\..\\AutoKB\\bin\\",
         "/bin/framework": "..\\..\\AutoKB\\bin\\framework",
-        "/framework": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Framework.12.758.8\\runtimes\\native1.12-tchmi"
+        "/framework": "..\\..\\Packages\\Beckhoff.TwinCAT.HMI.Framework.12.760.37\\runtimes\\native1.12-tchmi"
     }
 }

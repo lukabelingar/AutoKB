@@ -1,4 +1,4 @@
-﻿<div id="Desktop" data-tchmi-type="TcHmi.Controls.System.TcHmiView" data-tchmi-top="0" data-tchmi-left="0" data-tchmi-width-mode="Content" data-tchmi-min-width="100" data-tchmi-min-width-unit="%" data-tchmi-height-mode="Content" data-tchmi-min-height="100" data-tchmi-min-height-unit="%" data-tchmi-is-enabled="true" data-tchmi-zindex="1">
+<div id="Desktop" data-tchmi-type="TcHmi.Controls.System.TcHmiView" data-tchmi-top="0" data-tchmi-left="0" data-tchmi-width-mode="Content" data-tchmi-min-width="100" data-tchmi-min-width-unit="%" data-tchmi-height-mode="Content" data-tchmi-min-height="100" data-tchmi-min-height-unit="%" data-tchmi-is-enabled="true" data-tchmi-zindex="1">
   <div id="ViewDesktopBeckhoffLogo" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiImage" data-tchmi-src="Images/Beckhoff_Logo.svg" data-tchmi-left="20" data-tchmi-top="20" data-tchmi-width="194" data-tchmi-height="57" data-tchmi-zindex="1">
 
   </div>
@@ -288,7 +288,15 @@
 </script>
 
 </div>
-<div id="TcHmiTextblock" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiTextblock" data-tchmi-height="137" data-tchmi-height-unit="px" data-tchmi-left="10" data-tchmi-left-unit="px" data-tchmi-text="Using the sample programsThis document contains sample applications of Beckhoff products for certain areas of application.The application notes provided here are based on typical features of the products and only serve as examples.The notes contained in this document explicitly do not refer to specific applications.The customer is therefore responsible for assessing and deciding whether the product is suitable for a particular application.We accept no responsibility for the completeness and correctness of thesource code contained in this document.We reserve the right to modify the content of this document at any time and accept no responsibility for errors and missing information." data-tchmi-top="384" data-tchmi-top-unit="px" data-tchmi-width="780" data-tchmi-width-unit="px" data-tchmi-word-wrap="true" data-tchmi-is-enabled="true" data-tchmi-zindex="1">
+<div id="TcHmiTextblock" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiTextblock" data-tchmi-height="137" data-tchmi-height-unit="px" data-tchmi-left="10" data-tchmi-left-unit="px" data-tchmi-text="Using the sample programs
+
+This document contains sample applications of Beckhoff products for certain areas of application.
+The application notes provided here are based on typical features of the products and only serve as examples.
+The notes contained in this document explicitly do not refer to specific applications.
+The customer is therefore responsible for assessing and deciding whether the product is suitable for a particular application.
+We accept no responsibility for the completeness and correctness of thesource code contained in this document.
+We reserve the right to modify the content of this document at any time and accept no responsibility for errors and missing information.
+" data-tchmi-top="384" data-tchmi-top-unit="px" data-tchmi-width="780" data-tchmi-width-unit="px" data-tchmi-word-wrap="true" data-tchmi-is-enabled="true" data-tchmi-zindex="1">
 </div>
 <div id="TcHmiRegion" data-tchmi-type="TcHmi.Controls.System.TcHmiRegion" data-tchmi-height="67" data-tchmi-height-unit="px" data-tchmi-left="292" data-tchmi-left-unit="px" data-tchmi-top="10" data-tchmi-top-unit="px" data-tchmi-width="205" data-tchmi-width-unit="px" data-tchmi-target-content="Content/Content1.content" data-tchmi-is-enabled="true" data-tchmi-zindex="1">
 </div>
