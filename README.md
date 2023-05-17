@@ -1,5 +1,5 @@
 # AutoKB
-Implementation of a virtualsystem  keyboard for Beckhoff TF2000 1.12.+
+Implementation of a virtual system  keyboard for Beckhoff TF2000 1.12.+
 
 Keyboard pops up with a different layouts, numeric or (possibly localized) text. It centers on a screen and displays:
 * indirect windows with value to edit
