@@ -1,0 +1,10 @@
+﻿{
+  "$schema": "./../../Packages/Beckhoff.TwinCAT.HMI.Framework.12.758.8/runtimes/native1.12-tchmi/Schema/LocalizationDescription.Schema.json",
+  "locale": "sl-SI",
+  "localizedText": {
+    "Key": "ključ",
+    "Text1": "čćž ČĆŽ",
+    "Text2": "đš ŠĐ",
+    "keyboard_layout": "KeyboardLayouts/Slovenian - indirect basic.keyboard.json"
+  }
+}

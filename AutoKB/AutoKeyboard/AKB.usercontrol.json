@@ -1,0 +1,39 @@
+﻿{
+  "parameters": [
+    {
+      "name": "data-tchmi-textlayout",
+      "displayName": "TextLayout",
+      "visible": true,
+      "type": "tchmi:framework#/definitions/TcHmi.Controls.Beckhoff.TcHmiKeyboard.ProjectKeyboardLayouts",
+      "category": "",
+      "description": "",
+      "requiredOnCompile": false,
+      "readOnly": false,
+      "bindable": true,
+      "heritable": true,
+      "propertyName": "TextLayout",
+      "propertySetterName": "setTextLayout",
+      "propertyGetterName": "getTextLayout",
+      "refTo": ""
+    },
+    {
+      "name": "data-tchmi-numericlayout",
+      "displayName": "NumericLayout",
+      "visible": true,
+      "type": "tchmi:framework#/definitions/TcHmi.Controls.Beckhoff.TcHmiKeyboard.ProjectKeyboardLayouts",
+      "category": "",
+      "description": "",
+      "requiredOnCompile": false,
+      "readOnly": false,
+      "bindable": true,
+      "heritable": true,
+      "propertyName": "NumericLayout",
+      "propertySetterName": "setNumericLayout",
+      "propertyGetterName": "getNumericLayout",
+      "refTo": ""
+    }
+  ],
+  "virtualRights": [],
+  "$schema": "./../Packages/Beckhoff.TwinCAT.HMI.Framework.12.758.8/runtimes/native1.12-tchmi/Schema/UserControlConfig.Schema.json",
+  "description": ""
+}

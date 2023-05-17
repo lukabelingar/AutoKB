@@ -1,0 +1,10 @@
+﻿{
+  "$schema": "./../../Packages/Beckhoff.TwinCAT.HMI.Framework.12.758.8/runtimes/native1.12-tchmi/Schema/LocalizationDescription.Schema.json",
+  "locale": "hr",
+  "localizedText": {
+    "Text1": "tekst jedanž",
+    "Text2": "txt 2",
+    "Key": "ključ",
+    "keyboard_layout": "KeyboardLayouts/Croatian - indirect basic.keyboard.json"
+  }
+}
