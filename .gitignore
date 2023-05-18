@@ -13,13 +13,14 @@ package-lock.json
 .hmiframework
 
 # TwinCAT files
-*.tpy
-*.tclrs
 *.compiled-library
 *.compileinfo
-*.tmcRefac
 *.library
 *.project.~u
+*.t?zip
+*.tclrs
+*.tmcRefac
+*.tpy
 *.tsproj.bak
 *.tsproj.bk?
 *.xti.bak
