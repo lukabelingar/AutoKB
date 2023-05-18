@@ -7,7 +7,7 @@ Keyboard pops up with a different layouts, numeric or (possibly localized) text.
 * hides password
  
 # Tested
-1.12.758.8
+1.12.758.8, 1.12.760.37
 
 # Use
 1. Copy the AutoKeyboard folder('s contents) to your project.
