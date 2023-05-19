@@ -34,9 +34,8 @@ module TcHmi {
                     //this.Keyboard = TcHmi.Controls.get<TcHmi.Controls.Beckhoff.TcHmiKeyboard>(this.kid);
 
                     //alternatively, use get without type declaration
-                    this.Keyboard = TcHmi.Controls.get(this.kid);
-
-                    this.Canvas = TcHmi.Controls.get(this.cid);
+                    this.Keyboard = TcHmi.control[this.kid];
+                    this.Canvas = TcHmi.control[this.cid];
 
                     //that's a lambda and is here because passing methods with "this" references to eventprovider doesn't bide well.
                     this.Hide = () => {
